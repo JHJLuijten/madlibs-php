@@ -1,0 +1,54 @@
+body{
+	background-color: grey;
+	text-align:left;
+	margin-left: 350px;
+}
+h1{
+	color: white;
+	font-size: 80px
+	
+}
+h2{
+	margin: 0px 20px;
+	padding:20px 0px;
+}
+#center{
+	background-color: white;
+	margin-right: 350px;
+}
+
+li{
+	float:left;
+	background-color: red;
+
+}
+li a{
+	margin: 5px 5px;
+	padding:15px;
+	margin-left: 50px;
+	color:white;
+	max-width: 150px;
+	text-decoration: none;
+	display: block;
+	background-color: red;
+}
+ul {
+	font-family: arial;
+	color:white;
+	list-style-type: none;
+	background-color: red;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+
+}
+form{
+	margin:20px;
+}
+
+footer{
+	background-color: #4d4d33;
+	color:white;
+	padding: 1px 10px;
+	text-align: center;
+}

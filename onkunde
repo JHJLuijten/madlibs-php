@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8"/>
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="madlibs.css" />
+</head>
+<body>
+<div>
+ 	<h1>Madlibs</h1>
+ 	<div id="center">
+ 		<nav>
+			<ul>
+  				<li id="nav"><a href="Onkunde.html">Er heerst paniek</a></li>
+  				<li id="nav"><a class="active" href="#home">Onkunde</a></li>
+  				<link rel="stylesheet" type="text/css" href="madlibs.css" />
+
+			</ul>
+		</nav>
+
+ 	<h2>Onkunde</h2>
+
+
+	<form action="Action2.php" method="post">
+		Wat zou je graag willen kunnen?<br>
+		<input type="text" name="draw">
+		<br>
+		Met welke persoon kun je goed opschieten?<br>
+		<input type="text" name="person">
+		<br>
+		Favoriete getal?<br>
+		<input type="text" name="number">
+		<br>
+		Wat heb je altijd bij als je op vakantie gaat?<br>
+		<input type="text" name="vakantie">
+		<br>
+		Wat is je beste persoonlijke eigenschap?<br>
+		<input type="text" name="eigenschap">
+		<br>
+		Wat is je slechtste persoonlijke eigenschap?<br>
+		<input type="text" name="eigenschap2">
+		<br>
+		Wat is het ergste dat je kan overkomen?<br>
+		<input type="text" name="ergste">
+		<br><br>
+		<input type="submit" value="Submit">
+	</form> 
+	</div>
+	</div>
+</body>
+</html>
